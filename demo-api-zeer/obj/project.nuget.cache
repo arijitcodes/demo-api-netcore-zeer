@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NG/ob97XGVTbkgCJ/94fbyk0EmRcRvPq6DciFnCCS6WCV7pll46SEoIIH3YXHnKYWWXiFdUdK8bURaXm3jHo3Q==",
+  "success": true,
+  "projectFilePath": "F:\\Development\\net-core\\demo-api-zeer\\demo-api-zeer\\demo-api-netcore-zeer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ARIJIT\\.nuget\\packages\\awssdk.core\\3.7.3.1\\awssdk.core.3.7.3.1.nupkg.sha512",
+    "C:\\Users\\ARIJIT\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.0.62\\awssdk.dynamodbv2.3.7.0.62.nupkg.sha512"
+  ],
+  "logs": []
+}
